@@ -1,0 +1,28 @@
+body {
+    background: #f8f8f8;
+    font-family: Tahoma;
+    padding: 40px;
+    text-align: center;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+input, textarea {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background: #0077ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
